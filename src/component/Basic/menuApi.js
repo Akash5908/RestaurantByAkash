@@ -52,7 +52,7 @@ const Menu = [
         category: "dinner",
         price: "180₹",
         description:
-            "Butter chicken, traditionally known as murgh makhani (pronounced is an Indian dish originating in New Delhi. It is a type of curry made from chicken with a spiced tomato and butter (makhan) sauce. Its sauce is known for its rich ",
+            "Butter chicken, traditionally known as murgh makhani (pronounced is an Indian dish originating in New Delhi. It is a type of curry made from chicken with a spiced tomato and butter (makhan) sauce. ",
     },
     {
         id: 7,
@@ -70,7 +70,7 @@ const Menu = [
         category: "lunch",
         price: "60₹",
         description:
-            "Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, fish) or in some cases without any meat. ",
+            "Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, fish) or in some cases. ",
     },
     {
         id: 9,
