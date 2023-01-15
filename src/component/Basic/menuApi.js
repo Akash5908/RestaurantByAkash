@@ -6,7 +6,7 @@ const Menu = [
         category: "breakfast",
         price: "12₹",
         description:
-            "Banana shakes are often used as a convenient way to incorporate calories and nutrition into a busy lifestyle with the perfect ratio of fruit to ice cream to milk. It's packed full of banana flavor and is pretty much irresistible.Support a health goa",
+            "Banana shakes are often used as a convenient and nutrition into a busy lifestyle with the perfect ratio of fruit to ice cream to milk. It's packed full of banana flavor and is pretty much irresistible.Support a health goa",
     },
 
     {
@@ -16,7 +16,7 @@ const Menu = [
         category: "lunch",
         price: "20₹",
         description:
-            "Just in case you haven’t caught on yet, we’re breakfast crazy here at Chicago Waffles! We just love everything about it – from the sweet to the savory, to the healthy and indulgent. And, there are so many great breakfast food items to choose from. But, in this post, we’re talking about ",
+            "Just in case you haven’t caught on yet at Chicago Waffles! We just love everything about it to the healthy and indulgent. And, there are so many great breakfast food items to choose from. But, in this post, we’re talking about ",
     },
     {
         id: 3,
@@ -25,7 +25,7 @@ const Menu = [
         category: "breakfast",
         price: "10₹",
         description:
-            "Black coffee is simply coffee that is normally such as sugar, milk, cream, or added flavors. While it has a slightly bitter taste compared to when it is flavored with additives, many people love a strong cup of black coffee. In fact, for some, it is part of their everyday diet. ",
+            "Black coffee is simply coffee that is normally such as sugar, milk, cream, or added flavors. While it has a slightly bitter taste compared to when it is flavored with additives. In fact, for some, it is part of their everyday diet. ",
     },
     {
         id: 4,
